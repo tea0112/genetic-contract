@@ -1,0 +1,6 @@
+hardhat-genetic/node_modules
+hardhat-genetic/contracts/*
+backend-genetic/.idea
+hardhat-genetic/artifacts
+hardhat-genetic/cache
+hardhat-genetic/ignition/deployments
